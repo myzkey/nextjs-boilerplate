@@ -1,0 +1,5 @@
+!.storybook
+dist
+out
+storybook-static
+build

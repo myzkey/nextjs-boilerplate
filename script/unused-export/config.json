@@ -1,0 +1,8 @@
+{
+  "baseUrl": "src",
+  "tsconfig": "./tsconfig_unused_export.json",
+  "ignoreFiles": [
+    ".stories.tsx",
+    "src/pages/*"
+  ]
+}
